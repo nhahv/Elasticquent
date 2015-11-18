@@ -1,5 +1,5 @@
 {
-  "name": "elasticquent/elasticquent",
+  "name": "nhahv/elasticquent",
   "type": "library",
   "description": "Map Laravel Eloquent models to Elasticsearch types.",
   "keywords": [
@@ -10,6 +10,10 @@
   "homepage": "https://github.com/elasticquent/Elasticquent",
   "license": "MIT",
   "authors": [
+    {
+      "name": "Nha.HV",
+      "email": "nhahv@tintuc.vn"
+    },
     {
       "name": "Adam Fairholm",
       "email": "adam.fairholm@gmail.com",
